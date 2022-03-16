@@ -1,0 +1,14 @@
+C:\Users\sh13ld\Videos\tasks\home\ClassTaskAccessModifiers\ClassTaskAccessModifiers\bin\Debug\netcoreapp3.1\ClassTaskAccessModifiers.exe
+C:\Users\sh13ld\Videos\tasks\home\ClassTaskAccessModifiers\ClassTaskAccessModifiers\bin\Debug\netcoreapp3.1\ClassTaskAccessModifiers.deps.json
+C:\Users\sh13ld\Videos\tasks\home\ClassTaskAccessModifiers\ClassTaskAccessModifiers\bin\Debug\netcoreapp3.1\ClassTaskAccessModifiers.runtimeconfig.json
+C:\Users\sh13ld\Videos\tasks\home\ClassTaskAccessModifiers\ClassTaskAccessModifiers\bin\Debug\netcoreapp3.1\ClassTaskAccessModifiers.runtimeconfig.dev.json
+C:\Users\sh13ld\Videos\tasks\home\ClassTaskAccessModifiers\ClassTaskAccessModifiers\bin\Debug\netcoreapp3.1\ClassTaskAccessModifiers.dll
+C:\Users\sh13ld\Videos\tasks\home\ClassTaskAccessModifiers\ClassTaskAccessModifiers\bin\Debug\netcoreapp3.1\ClassTaskAccessModifiers.pdb
+C:\Users\sh13ld\Videos\tasks\home\ClassTaskAccessModifiers\ClassTaskAccessModifiers\obj\Debug\netcoreapp3.1\ClassTaskAccessModifiers.csproj.AssemblyReference.cache
+C:\Users\sh13ld\Videos\tasks\home\ClassTaskAccessModifiers\ClassTaskAccessModifiers\obj\Debug\netcoreapp3.1\ClassTaskAccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sh13ld\Videos\tasks\home\ClassTaskAccessModifiers\ClassTaskAccessModifiers\obj\Debug\netcoreapp3.1\ClassTaskAccessModifiers.AssemblyInfoInputs.cache
+C:\Users\sh13ld\Videos\tasks\home\ClassTaskAccessModifiers\ClassTaskAccessModifiers\obj\Debug\netcoreapp3.1\ClassTaskAccessModifiers.AssemblyInfo.cs
+C:\Users\sh13ld\Videos\tasks\home\ClassTaskAccessModifiers\ClassTaskAccessModifiers\obj\Debug\netcoreapp3.1\ClassTaskAccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\sh13ld\Videos\tasks\home\ClassTaskAccessModifiers\ClassTaskAccessModifiers\obj\Debug\netcoreapp3.1\ClassTaskAccessModifiers.dll
+C:\Users\sh13ld\Videos\tasks\home\ClassTaskAccessModifiers\ClassTaskAccessModifiers\obj\Debug\netcoreapp3.1\ClassTaskAccessModifiers.pdb
+C:\Users\sh13ld\Videos\tasks\home\ClassTaskAccessModifiers\ClassTaskAccessModifiers\obj\Debug\netcoreapp3.1\ClassTaskAccessModifiers.genruntimeconfig.cache
